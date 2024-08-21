@@ -27,5 +27,5 @@ The APK for the game is available for download. You can either [download the APK
 - **APK File:** Available in the main repository directory.
 - **Main Game Files:** Located in `app/src/main/assets`.
   - `index.html` - The main HTML file for the game.
-  - `styles` folder - Contains the stylesheet for the game's appearance.
+  - `styles` folder - Contains the stylesheet for the game's look.
   - `scripts` folder - Contains `main.js`, which includes the core game code.
