@@ -30,4 +30,4 @@ The APK for the game is available for download. You can either [download the APK
   - `styles` folder - Contains the stylesheet for the game's look.
   - `scripts` folder - Contains `main.js`, which includes the core game code.
 
-## By: Nathaniel
+## By: graph90
