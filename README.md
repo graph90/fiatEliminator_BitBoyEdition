@@ -1,6 +1,6 @@
 # Fiat Eliminator
 
-**Fiat Eliminator** merges retro arcade action with Bitcoin themes, letting players control Bitcoin in a quest to defeat fiat currency. It offers both nostalgic gameplay for arcade enthusiasts and a unique experience for Bitcoiners.
+**Fiat Eliminator** merges retro arcade gameplay with Bitcoin, allowing players to embody Bitcoin in a quest to eliminate fiat currency. The game aims to provide a fun and challenging experience while promoting engagement with Bitcoin, making it both a nostalgic trip for arcade lovers and a unique journey for Bitcoiners.
 
 ## Game Features
 
