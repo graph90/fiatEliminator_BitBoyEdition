@@ -12,7 +12,7 @@
 
 The APK for the game is available in this repository for download.
 
-## File Structure (for main game files)
+## File Structure (For the main game files)
 
 - **APK File:** Available in the main repository directory.
 - **Main Game Files:** Located in `src/main/assets`.
