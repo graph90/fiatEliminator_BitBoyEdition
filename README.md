@@ -4,7 +4,7 @@
 
 ## Game Features
 
-- **Retro Arcade Action:** Experience classic arcade gameplay with a Bitcoin theme.
+- **Retro Arcade gameplay:** Experience classic arcade gameplay with a Bitcoin theme.
 - **Challenging Levels:** Progress through dynamic levels, each with increasing difficulty.
 - **Input Controls:** Supports Dpad input for the BitBoy system and other controllers, as well as keyboard arrow keys for users without access to a dpad.
 
