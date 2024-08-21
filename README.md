@@ -10,9 +10,8 @@
 
 ## Download
 
-The APK for the game is available for download from the following link:
+The APK for the game is available for download. You can either [download the APK here](https://github.com/graph90/fiatEliminator_BitBoyEdition/blob/master/fiatEliminator.apk) or find it in the main repository directory.
 
-[Download Fiat Eliminator APK](https://github.com/graph90/fiatEliminator_BitBoyEdition/blob/master/fiatEliminator.apk)
 
 ## File Structure (For Main Game Files)
 
