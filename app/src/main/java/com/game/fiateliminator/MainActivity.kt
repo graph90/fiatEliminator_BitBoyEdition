@@ -11,30 +11,24 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        // Initialize the WebView and load the HTML5 game
         webView = WebView(this)
         webView.settings.apply {
-            javaScriptEnabled = true // Enable JavaScript if needed
-            domStorageEnabled = true  // Enable DOM storage API
-            allowFileAccess = true    // Allow file access if loading from local assets
-            setSupportZoom(true)     // Enable zoom controls
+            javaScriptEnabled = true
+            domStorageEnabled = true
+            allowFileAccess = true
+            setSupportZoom(true)
             builtInZoomControls = true
-            displayZoomControls = false // Hide zoom controls
-            loadWithOverviewMode = true // Fit content to screen width
-            useWideViewPort = true    // Enable viewport scaling
+            displayZoomControls = false
+            loadWithOverviewMode = true 
+            useWideViewPort = true
         }
 
-        webView.webViewClient = WebViewClient() // Handle page navigation within the WebView
-
-        // Load your HTML5 game (from assets or URL)
-        webView.loadUrl("file:///android_asset/index.html") // if local file
-        // webView.loadUrl("https://your-game-url.com") // if remote URL
-
+        webView.webViewClient = WebViewClient()
+        webView.loadUrl("file:///android_asset/index.html") 
         setContentView(webView)
     }
 
     override fun onBackPressed() {
-        // Allow navigating back within WebView, if possible
         if (webView.canGoBack()) {
             webView.goBack()
         } else {
