@@ -4,19 +4,20 @@
 
 ## Game Features
 
-- **Retro Arcade gameplay:** Experience classic arcade gameplay with a Bitcoin theme.
-- **Challenging Levels:** Progress through dynamic levels, each with increasing difficulty.
-- **Input Controls:** Supports Dpad input for the BitBoy system and other controllers, as well as keyboard arrow keys for users without access to a dpad.
+- **Retro Arcade Gameplay:** Experience classic arcade action with a Bitcoin theme.
+- **Challenging Levels:** Progress through dynamic levels with increasing difficulty.
+- **Input Controls:** Supports Dpad input for the BitBoy system and other controllers, as well as keyboard arrow keys for users without access to a Dpad.
 
 ## Download
 
-The APK for the game is available in this repository for download. 
-https://github.com/graph90/fiatEliminator_BitBoyEdition/blob/master/fiatEliminator.apk
+The APK for the game is available for download from the following link:
 
-## File Structure (For the main game files)
+[Download Fiat Eliminator APK](https://github.com/graph90/fiatEliminator_BitBoyEdition/blob/master/fiatEliminator.apk)
+
+## File Structure (For Main Game Files)
 
 - **APK File:** Available in the main repository directory.
 - **Main Game Files:** Located in `app/src/main/assets`.
   - `index.html` - The main HTML file for the game.
-  - `styles` folder - Contains the stylesheet for the game's look.
+  - `styles` folder - Contains the stylesheet for the game's appearance.
   - `scripts` folder - Contains `main.js`, which includes the core game code.
