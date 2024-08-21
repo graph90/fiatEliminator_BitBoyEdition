@@ -4,14 +4,23 @@
 
 ## Game Features
 
-- **Retro Arcade Gameplay:** Experience classic arcade action with a Bitcoin theme.
+- **Retro Arcade Gameplay:** Experience classic arcade gameplay with a Bitcoin theme.
 - **Challenging Levels:** Progress through dynamic levels with increasing difficulty.
 - **Input Controls:** Supports Dpad input for the BitBoy system and other controllers, as well as keyboard arrow keys for users without access to a Dpad.
 
+## Controls
+
+- **BitBoy and Other Controllers:**
+  - **Move Left/Right:** Use the Dpad left/right.
+  - **Shoot:** Press the Dpad up.
+
+- **Keyboard:**
+  - **Move Left/Right:** Use the left/right arrows.
+  - **Shoot:** Press the up arrow.
+
 ## Download
 
-The APK for the game is available for download. You can either [download the APK here](https://github.com/graph90/fiatEliminator_BitBoyEdition/blob/master/fiatEliminator.apk) or find it in the main repository directory.
-
+The APK for the game is available for download. You can either [download the APK here](https://github.com/graph90/fiatEliminator_BitBoyEdition/blob/master/fiatEliminator.apk) or find it in the repository directory.
 
 ## File Structure (For Main Game Files)
 
